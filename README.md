@@ -1,2 +1,2 @@
 # streamlit-dataset-explorer-app
-This app help make exploratory analysis and visualization for specific datasets
+This app helps make exploratory analysis and visualization for specific datasets
